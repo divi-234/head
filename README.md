@@ -1,0 +1,3 @@
+This is a personal portfolio which is built using html and css.
+I have use css property of grid padding images links etc...
+This is a basic level project.
